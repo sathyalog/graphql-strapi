@@ -1,0 +1,101 @@
+{
+  "_from": "strapi-plugin-content-type-builder@alpha",
+  "_id": "strapi-plugin-content-type-builder@3.1.0-alpha.5",
+  "_inBundle": false,
+  "_integrity": "sha512-CvHIO5MUOXnT2p4h9qYXe2I4S1hL53PR21whHKuXidYRCfFS53t/gy0mIC/es3CQXGNVZxZXmmByI7HFlex5hA==",
+  "_location": "/strapi-plugin-content-type-builder",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "strapi-plugin-content-type-builder@alpha",
+    "name": "strapi-plugin-content-type-builder",
+    "escapedName": "strapi-plugin-content-type-builder",
+    "rawSpec": "alpha",
+    "saveSpec": null,
+    "fetchSpec": "alpha"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/strapi-plugin-content-type-builder/-/strapi-plugin-content-type-builder-3.1.0-alpha.5.tgz",
+  "_shasum": "97627e0d49bce8f32d8047cbbaf6302087809283",
+  "_spec": "strapi-plugin-content-type-builder@alpha",
+  "_where": "/Users/satvakac/Sathya-Drive/Lenovo/Backup/Lenovo_Backup/workspace/learn-graphql/server",
+  "author": {
+    "name": "Strapi team",
+    "email": "hi@strapi.io",
+    "url": "http://strapi.io"
+  },
+  "bugs": {
+    "url": "https://github.com/strapi/strapi/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@sindresorhus/slugify": "0.9.1",
+    "fs-extra": "^7.0.0",
+    "immutable": "^3.8.2",
+    "lodash": "^4.17.11",
+    "pluralize": "^7.0.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-intl": "4.5.0",
+    "react-redux": "7.2.0",
+    "react-router": "^5.0.0",
+    "react-router-dom": "^5.0.0",
+    "reactstrap": "8.4.1",
+    "redux": "^4.0.1",
+    "redux-immutable": "^4.0.0",
+    "reselect": "^4.0.0",
+    "strapi-generate": "3.1.0-alpha.5",
+    "strapi-generate-api": "3.1.0-alpha.5",
+    "strapi-helper-plugin": "3.1.0-alpha.5",
+    "strapi-utils": "3.1.0-alpha.5",
+    "yup": "^0.27.0"
+  },
+  "deprecated": false,
+  "description": "Strapi plugin to create content type (API).",
+  "engines": {
+    "node": ">=10.10.0",
+    "npm": ">=6.0.0"
+  },
+  "gitHead": "e0ee7732ecc37faf08110771a6e1145c9fbc20b8",
+  "homepage": "https://github.com/strapi/strapi#readme",
+  "license": "SEE LICENSE IN LICENSE",
+  "maintainers": [
+    {
+      "name": "Strapi team",
+      "email": "hi@strapi.io",
+      "url": "http://strapi.io"
+    }
+  ],
+  "name": "strapi-plugin-content-type-builder",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/strapi/strapi.git"
+  },
+  "strapi": {
+    "name": "Content Type Builder",
+    "icon": "paint-brush",
+    "description": "content-type-builder.plugin.description"
+  },
+  "version": "3.1.0-alpha.5",
+  "warnings": [
+    {
+      "code": "ENOTSUP",
+      "required": {
+        "node": ">=10.10.0",
+        "npm": ">=6.0.0"
+      },
+      "pkgid": "strapi-plugin-content-type-builder@3.1.0-alpha.5"
+    },
+    {
+      "code": "ENOTSUP",
+      "required": {
+        "node": ">=10.10.0",
+        "npm": ">=6.0.0"
+      },
+      "pkgid": "strapi-plugin-content-type-builder@3.1.0-alpha.5"
+    }
+  ]
+}

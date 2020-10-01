@@ -1,0 +1,108 @@
+{
+  "_from": "strapi-plugin-users-permissions@alpha",
+  "_id": "strapi-plugin-users-permissions@3.1.0-alpha.5",
+  "_inBundle": false,
+  "_integrity": "sha512-kYC37K+iviKxZj58gWn/hdmcdkWz9pnwy4bjNeYQw1VH9qJhPPNsx/XvSCbCMJU2fDabO+JOIyyDEfA9DcM2hg==",
+  "_location": "/strapi-plugin-users-permissions",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "strapi-plugin-users-permissions@alpha",
+    "name": "strapi-plugin-users-permissions",
+    "escapedName": "strapi-plugin-users-permissions",
+    "rawSpec": "alpha",
+    "saveSpec": null,
+    "fetchSpec": "alpha"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/strapi-plugin-users-permissions/-/strapi-plugin-users-permissions-3.1.0-alpha.5.tgz",
+  "_shasum": "9680fc0cf13a7585e31ac1a5d30d0c24c5099bad",
+  "_spec": "strapi-plugin-users-permissions@alpha",
+  "_where": "/Users/satvakac/Sathya-Drive/Lenovo/Backup/Lenovo_Backup/workspace/learn-graphql/server",
+  "author": {
+    "name": "Strapi team",
+    "email": "hi@strapi.io",
+    "url": "http://strapi.io"
+  },
+  "bugs": {
+    "url": "https://github.com/strapi/strapi/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@purest/providers": "^1.0.1",
+    "bcryptjs": "^2.4.3",
+    "grant-koa": "^5.0.1",
+    "immutable": "^3.8.2",
+    "jsonwebtoken": "^8.1.0",
+    "koa2-ratelimit": "^0.9.0",
+    "lodash": "^4.17.11",
+    "purest": "3.1.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-intl": "4.5.0",
+    "react-redux": "^7.0.2",
+    "react-router": "^5.0.0",
+    "react-router-dom": "^5.0.0",
+    "reactstrap": "8.4.1",
+    "redux-saga": "^0.16.0",
+    "request": "^2.83.0",
+    "strapi-helper-plugin": "3.1.0-alpha.5",
+    "strapi-utils": "3.1.0-alpha.5",
+    "uuid": "^3.1.0"
+  },
+  "deprecated": false,
+  "description": "Protect your API with a full-authentication process based on JWT",
+  "devDependencies": {
+    "koa": "^2.8.0"
+  },
+  "engines": {
+    "node": ">=10.10.0",
+    "npm": ">=6.0.0"
+  },
+  "gitHead": "e0ee7732ecc37faf08110771a6e1145c9fbc20b8",
+  "homepage": "https://github.com/strapi/strapi#readme",
+  "license": "SEE LICENSE IN LICENSE",
+  "maintainers": [
+    {
+      "name": "Strapi team",
+      "email": "hi@strapi.io",
+      "url": "http://strapi.io"
+    }
+  ],
+  "name": "strapi-plugin-users-permissions",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/strapi/strapi.git"
+  },
+  "scripts": {
+    "test": "echo \"no tests yet\""
+  },
+  "strapi": {
+    "name": "Roles & Permissions",
+    "icon": "users",
+    "description": "users-permissions.plugin.description",
+    "required": true
+  },
+  "version": "3.1.0-alpha.5",
+  "warnings": [
+    {
+      "code": "ENOTSUP",
+      "required": {
+        "node": ">=10.10.0",
+        "npm": ">=6.0.0"
+      },
+      "pkgid": "strapi-plugin-users-permissions@3.1.0-alpha.5"
+    },
+    {
+      "code": "ENOTSUP",
+      "required": {
+        "node": ">=10.10.0",
+        "npm": ">=6.0.0"
+      },
+      "pkgid": "strapi-plugin-users-permissions@3.1.0-alpha.5"
+    }
+  ]
+}

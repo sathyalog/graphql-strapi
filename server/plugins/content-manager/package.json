@@ -1,0 +1,114 @@
+{
+  "_from": "strapi-plugin-content-manager@alpha",
+  "_id": "strapi-plugin-content-manager@3.1.0-alpha.5",
+  "_inBundle": false,
+  "_integrity": "sha512-DMosDbp5BRcEcdGsPxmmahxdCuwFVqqCU1VpzprE/3jgF2U5GrXebjUkznMHn7RmajgDwX+PG/VZwJg1vU0Zpg==",
+  "_location": "/strapi-plugin-content-manager",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "strapi-plugin-content-manager@alpha",
+    "name": "strapi-plugin-content-manager",
+    "escapedName": "strapi-plugin-content-manager",
+    "rawSpec": "alpha",
+    "saveSpec": null,
+    "fetchSpec": "alpha"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/strapi-plugin-content-manager/-/strapi-plugin-content-manager-3.1.0-alpha.5.tgz",
+  "_shasum": "00e59b8d211e7b58d98cb2646574e2d4d0e70a76",
+  "_spec": "strapi-plugin-content-manager@alpha",
+  "_where": "/Users/satvakac/Sathya-Drive/Lenovo/Backup/Lenovo_Backup/workspace/learn-graphql/server",
+  "author": {
+    "name": "Strapi team",
+    "email": "hi@strapi.io",
+    "url": "http://strapi.io"
+  },
+  "bugs": {
+    "url": "https://github.com/strapi/strapi/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@sindresorhus/slugify": "0.9.1",
+    "classnames": "^2.2.6",
+    "codemirror": "^5.46.0",
+    "draft-js": "^0.11.5",
+    "highlight.js": "^10.1.1",
+    "immutable": "^3.8.2",
+    "lodash": "^4.17.11",
+    "markdown-it": "^11.0.0",
+    "markdown-it-abbr": "^1.0.4",
+    "markdown-it-container": "^3.0.0",
+    "markdown-it-deflist": "^2.0.3",
+    "markdown-it-emoji": "^1.4.0",
+    "markdown-it-footnote": "^3.0.2",
+    "markdown-it-ins": "^3.0.0",
+    "markdown-it-mark": "^3.0.0",
+    "markdown-it-sub": "^1.0.0",
+    "markdown-it-sup": "^1.0.0",
+    "pluralize": "^7.0.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-fast-compare": "^3.2.0",
+    "react-intl": "4.5.0",
+    "react-redux": "^7.0.2",
+    "react-router": "^5.0.0",
+    "react-router-dom": "^5.0.0",
+    "reactstrap": "8.4.1",
+    "redux": "^4.0.1",
+    "redux-immutable": "^4.0.0",
+    "reselect": "^4.0.0",
+    "strapi-helper-plugin": "3.1.0-alpha.5",
+    "strapi-utils": "3.1.0-alpha.5",
+    "yup": "^0.27.0"
+  },
+  "deprecated": false,
+  "description": "A powerful UI to easily manage your data.",
+  "engines": {
+    "node": ">=10.10.0",
+    "npm": ">=6.0.0"
+  },
+  "gitHead": "e0ee7732ecc37faf08110771a6e1145c9fbc20b8",
+  "homepage": "https://github.com/strapi/strapi#readme",
+  "license": "SEE LICENSE IN LICENSE",
+  "maintainers": [
+    {
+      "name": "Strapi team",
+      "email": "hi@strapi.io",
+      "url": "http://strapi.io"
+    }
+  ],
+  "name": "strapi-plugin-content-manager",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/strapi/strapi.git"
+  },
+  "strapi": {
+    "name": "Content Manager",
+    "icon": "plug",
+    "description": "content-manager.plugin.description",
+    "required": true
+  },
+  "version": "3.1.0-alpha.5",
+  "warnings": [
+    {
+      "code": "ENOTSUP",
+      "required": {
+        "node": ">=10.10.0",
+        "npm": ">=6.0.0"
+      },
+      "pkgid": "strapi-plugin-content-manager@3.1.0-alpha.5"
+    },
+    {
+      "code": "ENOTSUP",
+      "required": {
+        "node": ">=10.10.0",
+        "npm": ">=6.0.0"
+      },
+      "pkgid": "strapi-plugin-content-manager@3.1.0-alpha.5"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "_from": "strapi-plugin-email@alpha",
+  "_id": "strapi-plugin-email@3.1.0-alpha.5",
+  "_inBundle": false,
+  "_integrity": "sha512-p8yzc7DzSUVyD472ev/q5yJqt7Q01GzZ0Nrs6H2EDXIPI4c7TF5sSNuMX0n/M3RS6clgeiEgqVICOORy9iHK9Q==",
+  "_location": "/strapi-plugin-email",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "strapi-plugin-email@alpha",
+    "name": "strapi-plugin-email",
+    "escapedName": "strapi-plugin-email",
+    "rawSpec": "alpha",
+    "saveSpec": null,
+    "fetchSpec": "alpha"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/strapi-plugin-email/-/strapi-plugin-email-3.1.0-alpha.5.tgz",
+  "_shasum": "6ba199507fa94bacbe031cbb6a8797de8b2bb19f",
+  "_spec": "strapi-plugin-email@alpha",
+  "_where": "/Users/satvakac/Sathya-Drive/Lenovo/Backup/Lenovo_Backup/workspace/learn-graphql/server",
+  "author": {
+    "name": "Strapi team",
+    "email": "hi@strapi.io",
+    "url": "http://strapi.io"
+  },
+  "bugs": {
+    "url": "https://github.com/strapi/strapi/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "strapi-provider-email-sendmail": "3.1.0-alpha.5",
+    "strapi-utils": "3.1.0-alpha.5"
+  },
+  "deprecated": false,
+  "description": "This is the description of the plugin.",
+  "devDependencies": {
+    "rimraf": "3.0.0",
+    "strapi-helper-plugin": "3.1.0-alpha.5"
+  },
+  "engines": {
+    "node": ">=10.10.0",
+    "npm": ">=6.0.0"
+  },
+  "gitHead": "e0ee7732ecc37faf08110771a6e1145c9fbc20b8",
+  "homepage": "https://github.com/strapi/strapi#readme",
+  "license": "SEE LICENSE IN LICENSE",
+  "maintainers": [
+    {
+      "name": "Strapi team",
+      "email": "hi@strapi.io",
+      "url": "http://strapi.io"
+    }
+  ],
+  "name": "strapi-plugin-email",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/strapi/strapi.git"
+  },
+  "scripts": {
+    "test": "echo \"no tests yet\""
+  },
+  "strapi": {
+    "name": "Email",
+    "icon": "paper-plane",
+    "description": "email.plugin.description",
+    "required": true
+  },
+  "version": "3.1.0-alpha.5",
+  "warnings": [
+    {
+      "code": "ENOTSUP",
+      "required": {
+        "node": ">=10.10.0",
+        "npm": ">=6.0.0"
+      },
+      "pkgid": "strapi-plugin-email@3.1.0-alpha.5"
+    },
+    {
+      "code": "ENOTSUP",
+      "required": {
+        "node": ">=10.10.0",
+        "npm": ">=6.0.0"
+      },
+      "pkgid": "strapi-plugin-email@3.1.0-alpha.5"
+    }
+  ]
+}
